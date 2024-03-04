@@ -1,8 +1,5 @@
 <?php
 
-error_reporting(-1);
-ini_set('display_errors', 'On');
-set_error_handler("var_dump");
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $restaurant = filter_input(INPUT_POST, 'restaurant', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
@@ -17,20 +14,29 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $response = filter_input(INPUT_POST, 'response', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
 }
 
-$body = 'Restaurant: $restaurant\n';
-$body .= 'Surname: $surname\n';
-$body .= 'Nom: $name\n';
-$body .= 'Email: $email\n';
-$body .= 'Phone: $phone\n';
-$body .= 'Adresse: $adress\n';
-$body .= 'Code Postal: $zip\n';
-$body .= 'Pays: $country\n';
-$body .= 'Comment connaissez-vous Zenchef: $response';
+$body = "Restaurant: $restaurant\n";
+$body .= "Surname: $surname\n";
+$body .= "Nom: $name\n";
+$body .= "Email: $email\n";
+$body .= "Phone: $phone\n";
+$body .= "Adresse: $adress\n";
+$body .= "Code Postal: $zip\n";
+$body .= "Pays: $country\n";
+$body .= "Comment connaissez-vous Zenchef: $response";
 
-$receiver = 'zsamuel737@gmail.com';
+$to = "zsamuel737@gmail.com";
+$subject = "Demande de démo";
 
-if (mail($receiver, 'Demande de démo', $body)) {
-    echo 'Success';
+$headers = array(
+    "MIME-Version" => "1.0",
+    "Content-Type" => "text/html;charset=UTF-8",
+    "From" => "iamalltherangeatomic@gmail.com",
+);
+
+$send = mail($to, $subject, $body, $headers);
+
+if ($send) {
+    echo 'success';
 } else {
     echo 'Error';
 };
