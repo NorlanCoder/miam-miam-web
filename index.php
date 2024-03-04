@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
+
 <head>
 
     <!--- basic page needs
@@ -7,7 +8,7 @@
     <meta charset="utf-8">
     <title>DeliceDelice</title>
     <meta name="description" content="Délice Délice accompagne les hôteliers,Restaurant,Pâtisserie,... du monde entier en proposant vos offres et services directement sur le smartphone de manière automatisée, vous réduisez les frictions et augmentez considérablement vos revenus sur chaque séjour">
-    <meta name="author" content=""> 
+    <meta name="author" content="">
 
     <!-- mobile specific metas
     ================================================== -->
@@ -57,7 +58,7 @@
                     <img src="images/logo.png" alt="Homepage">
                 </a>
             </div>
-    
+
             <nav class="header-nav-wrap">
                 <ul class="header-main-nav">
                     <li class="current"><a class="smoothscroll" href="#home" title="intro">Intro</a></li>
@@ -65,14 +66,14 @@
                     <li><a class="smoothscroll" href="#features" title="features">Fonctionnalités</a></li>
                     <li><a class="smoothscroll" href="#faqs" title="faqs">FAQs</a></li>
                     <li><a class="smoothscroll" href="#download" title="download">Télécharger</a></li>
-                    	
+
                 </ul>
-    
+
                 <div class="header-cta">
-                    <a class="btn btn--primary header-cta__btn smoothscroll"  onclick="openModal('modelConfirm')">Demander une Démo</a>
+                    <a class="btn btn--primary header-cta__btn smoothscroll" onclick="openModal('modelConfirm')">Demander une Démo</a>
                 </div>
             </nav> <!-- end header-nav-wrap -->
-    
+
             <a class="header-menu-toggle" href="#"><span>Menu</span></a>
         </div>
 
@@ -91,15 +92,15 @@
 
                 <div class="home-content__left">
                     <h1 style="color: white !important;">
-                    DeliceDelice
+                        DeliceDelice
                     </h1>
-    
+
                     <h3>
-                        Depuis plusieurs années, Délice Délice accompagne les hôteliers du monde entier en proposant vos offres et services directement sur le smartphone de manière automatisée, vous réduisez les frictions et augmentez considérablement vos revenus sur chaque séjour                    
+                        Depuis plusieurs années, Délice Délice accompagne les hôteliers du monde entier en proposant vos offres et services directement sur le smartphone de manière automatisée, vous réduisez les frictions et augmentez considérablement vos revenus sur chaque séjour
                     </h3>
-    
+
                     <div class="home-content__btn-wrap">
-                        <a class="btn btn--primary home-content__btn smoothscroll"  href="#download">
+                        <a class="btn btn--primary home-content__btn smoothscroll" href="#download">
                             Télecharger l'App
                         </a>
                     </div>
@@ -122,7 +123,7 @@
         <a href="#about" class="home-scroll smoothscroll">
             <span class="home-scroll__text">Scroll</span>
             <span class="home-scroll__icon"></span>
-        </a> 
+        </a>
 
     </section> <!-- end s-home -->
 
@@ -153,7 +154,7 @@
                         Prise de commande simple et efficace
                         permettant aux établissements de prendre des commandes de manière efficace et rapide.
                     </p>
-                </div>  <!-- end about-desc__slide -->
+                </div> <!-- end about-desc__slide -->
 
                 <div class="about-desc__slide">
                     <h3 class="item-title">Smart.</h3>
@@ -162,7 +163,7 @@
                         Gestion des commandes adaptée aux réalités africaines
                         Facilité le suivi et la gestion des commandes tout au long du processus.
                     </p>
-                </div>  <!-- end about-desc__slide -->
+                </div> <!-- end about-desc__slide -->
 
                 <div class="about-desc__slide">
                     <h3 class="item-title">Efficace.</h3>
@@ -171,18 +172,18 @@
                         Gestion de Stocks rapide et sécurisée
                         Permet de surveiller et de gérer les niveaux de stock pour une meilleure planification
                     </p>
-                </div>  <!-- end about-desc__slide -->
+                </div> <!-- end about-desc__slide -->
 
                 <div class="about-desc__slide">
                     <h3 class="item-title">Fiable.</h3>
 
                     <p>
-                    Transaction sécurisé, rapide et simplifié pour tout utilisateur.
+                        Transaction sécurisé, rapide et simplifié pour tout utilisateur.
                     </p>
-                </div>  <!-- end about-desc__slide -->
+                </div> <!-- end about-desc__slide -->
 
             </div> <!-- end about-desc__slider -->
-            
+
         </div> <!-- end about-desc -->
 
     </section> <!-- end s-about -->
@@ -193,7 +194,7 @@
     <section id="about-how" class="s-about-how">
 
         <div class="row">
-           <div class="col-full video-bg" data-aos="fade-up">
+            <div class="col-full video-bg" data-aos="fade-up">
 
                 <div class="shadow-overlay"></div>
 
@@ -219,7 +220,7 @@
                         </span>
                     </div> <!-- end item-stats -->
                 </div>
-           </div> <!-- end video-bg -->
+            </div> <!-- end video-bg -->
         </div>
 
         <div class="row process-wrap">
@@ -233,30 +234,30 @@
 
                     <div class="col-block step">
                         <h3 class="item-title">Créer un compte.</h3>
-                        <p>Faites une demande vers DeliceDelice pour recevoir vos identifiants de connexion vendeur en quelque clique. <a href="">Cliquez ici</a> 
-                        </p> 
+                        <p>Faites une demande vers DeliceDelice pour recevoir vos identifiants de connexion vendeur en quelque clique. <a href="">Cliquez ici</a>
+                        </p>
                     </div>
 
                     <div class="col-block step">
                         <h3 class="item-title">Ajouter.</h3>
                         <p>Une fois votre compte créer ajouter des produits (Repas, Boisson, Déssert, ...), les regrouper par groupe. Mais aussi créer les menus du jour et des tables.
-                        </p> 
+                        </p>
                     </div>
-               
+
                     <div class="col-block step">
                         <h3 class="item-title">Consulter.</h3>
                         <p>Consulter son dashboard, voir la liste des commandes, des réservations et confirmer ou pas une commande. Consulter aussi son portefeuil vendeur et factures clients.
-                        </p> 
+                        </p>
                     </div>
 
                     <div class="col-block step">
                         <h3 class="item-title">Retirer.</h3>
-                        <p>Si vous avez du solde dans votre portefeuil vendeur résultant des commandes clients. Vous pouvez envoyer une demande de retrait et rentrer en posession de ce dernier. 
-                        </p> 
-                    </div>  
+                        <p>Si vous avez du solde dans votre portefeuil vendeur résultant des commandes clients. Vous pouvez envoyer une demande de retrait et rentrer en posession de ce dernier.
+                        </p>
+                    </div>
 
                 </div> <!-- end process__steps -->
-           </div> <!-- end process -->
+            </div> <!-- end process -->
         </div> <!-- end about-how -->
 
     </section> <!-- end s-about-how -->
@@ -306,7 +307,7 @@
             <div class="col-block item-feature" data-aos="fade-up">
                 <div class="item-feature__icon">
                     <i class="fa fa-regular fa-cart-plus"></i>
-                </div>  
+                </div>
                 <div class="item-feature__text">
                     <h3 class="item-title">Commande.</h3>
                     <p>
@@ -338,7 +339,7 @@
                     </p>
                 </div>
             </div>
-    
+
             <div class="col-block item-feature" data-aos="fade-up">
                 <div class="item-feature__icon">
                     <i class="icon-wallet"></i>
@@ -368,120 +369,120 @@
 
             <div class="container mx-auto">
                 <div class="m-8 rounded-3xl overflow-hidden">
-                  <div class="group outline-none accordion-section" tabindex="1">
-                    <div class="group bg-gray-300 flex justify-between px-10 py-10 items-center text-gray-500 transition ease duration-500 cursor-pointer pr-10 relative">
-                      <div class="group-focus:text-gray transition ease duration-500">
-                        Title
-                      </div>
-                      <div class="h-12 w-12 border border-gray-700 rounded-full items-center inline-flex justify-center transform transition ease duration-500 group-focus:text-gray group-focus:-rotate-180 absolute top-5 right-10 mb-auto ml-auto mt-2 mr-2">
-                        <i class="fas fa-chevron-down"></i>
-                      </div>
+                    <div class="group outline-none accordion-section" tabindex="1">
+                        <div class="group bg-gray-300 flex justify-between px-10 py-10 items-center text-gray-500 transition ease duration-500 cursor-pointer pr-10 relative">
+                            <div class="group-focus:text-gray transition ease duration-500">
+                                Title
+                            </div>
+                            <div class="h-12 w-12 border border-gray-700 rounded-full items-center inline-flex justify-center transform transition ease duration-500 group-focus:text-gray group-focus:-rotate-180 absolute top-5 right-10 mb-auto ml-auto mt-2 mr-2">
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
+                        </div>
+                        <div class="group-focus:max-h-screen max-h-0 bg-gray-200 px-4 overflow-hidden ease duration-500">
+                            <p class="p-5 text-gray-400 text-justify">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                                repellat amet doloribus consequuntur eos similique provident
+                                tempora voluptates iure quia fuga dicta voluptatibus culpa
+                                mollitia recusandae delectus id suscipit labore?
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                                repellat amet doloribus consequuntur eos similique provident
+                                tempora voluptates iure quia fuga dicta voluptatibus culpa
+                                mollitia recusandae delectus id suscipit labore?
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                                repellat amet doloribus consequuntur eos similique provident
+                                tempora voluptates iure quia fuga dicta voluptatibus culpa
+                                mollitia recusandae delectus id suscipit labore?
+                            </p>
+                        </div>
                     </div>
-                    <div class="group-focus:max-h-screen max-h-0 bg-gray-200 px-4 overflow-hidden ease duration-500">
-                      <p class="p-5 text-gray-400 text-justify">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
-                        repellat amet doloribus consequuntur eos similique provident
-                        tempora voluptates iure quia fuga dicta voluptatibus culpa
-                        mollitia recusandae delectus id suscipit labore? 
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
-                        repellat amet doloribus consequuntur eos similique provident
-                        tempora voluptates iure quia fuga dicta voluptatibus culpa
-                        mollitia recusandae delectus id suscipit labore?
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
-                        repellat amet doloribus consequuntur eos similique provident
-                        tempora voluptates iure quia fuga dicta voluptatibus culpa
-                        mollitia recusandae delectus id suscipit labore?
-                      </p>
-                    </div>
-                  </div>
                 </div>
                 <div class="m-8 rounded-3xl overflow-hidden">
                     <div class="group outline-none accordion-section" tabindex="1">
-                      <div class="group bg-gray-300 flex justify-between px-10 py-10 items-center text-gray-500 transition ease duration-500 cursor-pointer pr-10 relative">
-                        <div class="group-focus:text-gray transition ease duration-500">
-                          Title
+                        <div class="group bg-gray-300 flex justify-between px-10 py-10 items-center text-gray-500 transition ease duration-500 cursor-pointer pr-10 relative">
+                            <div class="group-focus:text-gray transition ease duration-500">
+                                Title
+                            </div>
+                            <div class="h-12 w-12 border border-gray-700 rounded-full items-center inline-flex justify-center transform transition ease duration-500 group-focus:text-gray group-focus:-rotate-180 absolute top-5 right-10 mb-auto ml-auto mt-2 mr-2">
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
                         </div>
-                        <div class="h-12 w-12 border border-gray-700 rounded-full items-center inline-flex justify-center transform transition ease duration-500 group-focus:text-gray group-focus:-rotate-180 absolute top-5 right-10 mb-auto ml-auto mt-2 mr-2">
-                          <i class="fas fa-chevron-down"></i>
+                        <div class="group-focus:max-h-screen max-h-0 bg-gray-200 px-4 overflow-hidden ease duration-500">
+                            <p class="p-5 text-gray-400 text-justify">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                                repellat amet doloribus consequuntur eos similique provident
+                                tempora voluptates iure quia fuga dicta voluptatibus culpa
+                                mollitia recusandae delectus id suscipit labore?
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                                repellat amet doloribus consequuntur eos similique provident
+                                tempora voluptates iure quia fuga dicta voluptatibus culpa
+                                mollitia recusandae delectus id suscipit labore?
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                                repellat amet doloribus consequuntur eos similique provident
+                                tempora voluptates iure quia fuga dicta voluptatibus culpa
+                                mollitia recusandae delectus id suscipit labore?
+                            </p>
                         </div>
-                      </div>
-                      <div class="group-focus:max-h-screen max-h-0 bg-gray-200 px-4 overflow-hidden ease duration-500">
-                        <p class="p-5 text-gray-400 text-justify">
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
-                          repellat amet doloribus consequuntur eos similique provident
-                          tempora voluptates iure quia fuga dicta voluptatibus culpa
-                          mollitia recusandae delectus id suscipit labore? 
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
-                          repellat amet doloribus consequuntur eos similique provident
-                          tempora voluptates iure quia fuga dicta voluptatibus culpa
-                          mollitia recusandae delectus id suscipit labore?
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
-                          repellat amet doloribus consequuntur eos similique provident
-                          tempora voluptates iure quia fuga dicta voluptatibus culpa
-                          mollitia recusandae delectus id suscipit labore?
-                        </p>
-                      </div>
                     </div>
-                  </div>
-                  <div class="m-8 rounded-3xl overflow-hidden">
+                </div>
+                <div class="m-8 rounded-3xl overflow-hidden">
                     <div class="group outline-none accordion-section" tabindex="1">
-                      <div class="group bg-gray-300 flex justify-between px-10 py-10 items-center text-gray-500 transition ease duration-500 cursor-pointer pr-10 relative">
-                        <div class="group-focus:text-gray transition ease duration-500">
-                          Title
+                        <div class="group bg-gray-300 flex justify-between px-10 py-10 items-center text-gray-500 transition ease duration-500 cursor-pointer pr-10 relative">
+                            <div class="group-focus:text-gray transition ease duration-500">
+                                Title
+                            </div>
+                            <div class="h-12 w-12 border border-gray-700 rounded-full items-center inline-flex justify-center transform transition ease duration-500 group-focus:text-gray group-focus:-rotate-180 absolute top-5 right-10 mb-auto ml-auto mt-2 mr-2">
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
                         </div>
-                        <div class="h-12 w-12 border border-gray-700 rounded-full items-center inline-flex justify-center transform transition ease duration-500 group-focus:text-gray group-focus:-rotate-180 absolute top-5 right-10 mb-auto ml-auto mt-2 mr-2">
-                          <i class="fas fa-chevron-down"></i>
+                        <div class="group-focus:max-h-screen max-h-0 bg-gray-200 px-4 overflow-hidden ease duration-500">
+                            <p class="p-5 text-gray-400 text-justify">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                                repellat amet doloribus consequuntur eos similique provident
+                                tempora voluptates iure quia fuga dicta voluptatibus culpa
+                                mollitia recusandae delectus id suscipit labore?
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                                repellat amet doloribus consequuntur eos similique provident
+                                tempora voluptates iure quia fuga dicta voluptatibus culpa
+                                mollitia recusandae delectus id suscipit labore?
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                                repellat amet doloribus consequuntur eos similique provident
+                                tempora voluptates iure quia fuga dicta voluptatibus culpa
+                                mollitia recusandae delectus id suscipit labore?
+                            </p>
                         </div>
-                      </div>
-                      <div class="group-focus:max-h-screen max-h-0 bg-gray-200 px-4 overflow-hidden ease duration-500">
-                        <p class="p-5 text-gray-400 text-justify">
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
-                          repellat amet doloribus consequuntur eos similique provident
-                          tempora voluptates iure quia fuga dicta voluptatibus culpa
-                          mollitia recusandae delectus id suscipit labore? 
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
-                          repellat amet doloribus consequuntur eos similique provident
-                          tempora voluptates iure quia fuga dicta voluptatibus culpa
-                          mollitia recusandae delectus id suscipit labore?
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
-                          repellat amet doloribus consequuntur eos similique provident
-                          tempora voluptates iure quia fuga dicta voluptatibus culpa
-                          mollitia recusandae delectus id suscipit labore?
-                        </p>
-                      </div>
                     </div>
-                  </div>
-                  <div class="m-8 rounded-3xl overflow-hidden">
+                </div>
+                <div class="m-8 rounded-3xl overflow-hidden">
                     <div class="group outline-none accordion-section" tabindex="1">
-                      <div class="group bg-gray-300 flex justify-between px-10 py-10 items-center text-gray-500 transition ease duration-500 cursor-pointer pr-10 relative">
-                        <div class="group-focus:text-gray transition ease duration-500">
-                          Title
+                        <div class="group bg-gray-300 flex justify-between px-10 py-10 items-center text-gray-500 transition ease duration-500 cursor-pointer pr-10 relative">
+                            <div class="group-focus:text-gray transition ease duration-500">
+                                Title
+                            </div>
+                            <div class="h-12 w-12 border border-gray-700 rounded-full items-center inline-flex justify-center transform transition ease duration-500 group-focus:text-gray group-focus:-rotate-180 absolute top-5 right-10 mb-auto ml-auto mt-2 mr-2">
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
                         </div>
-                        <div class="h-12 w-12 border border-gray-700 rounded-full items-center inline-flex justify-center transform transition ease duration-500 group-focus:text-gray group-focus:-rotate-180 absolute top-5 right-10 mb-auto ml-auto mt-2 mr-2">
-                          <i class="fas fa-chevron-down"></i>
+                        <div class="group-focus:max-h-screen max-h-0 bg-gray-200 px-4 overflow-hidden ease duration-500">
+                            <p class="p-5 text-gray-400 text-justify">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                                repellat amet doloribus consequuntur eos similique provident
+                                tempora voluptates iure quia fuga dicta voluptatibus culpa
+                                mollitia recusandae delectus id suscipit labore?
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                                repellat amet doloribus consequuntur eos similique provident
+                                tempora voluptates iure quia fuga dicta voluptatibus culpa
+                                mollitia recusandae delectus id suscipit labore?
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
+                                repellat amet doloribus consequuntur eos similique provident
+                                tempora voluptates iure quia fuga dicta voluptatibus culpa
+                                mollitia recusandae delectus id suscipit labore?
+                            </p>
                         </div>
-                      </div>
-                      <div class="group-focus:max-h-screen max-h-0 bg-gray-200 px-4 overflow-hidden ease duration-500">
-                        <p class="p-5 text-gray-400 text-justify">
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
-                          repellat amet doloribus consequuntur eos similique provident
-                          tempora voluptates iure quia fuga dicta voluptatibus culpa
-                          mollitia recusandae delectus id suscipit labore? 
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
-                          repellat amet doloribus consequuntur eos similique provident
-                          tempora voluptates iure quia fuga dicta voluptatibus culpa
-                          mollitia recusandae delectus id suscipit labore?
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat,
-                          repellat amet doloribus consequuntur eos similique provident
-                          tempora voluptates iure quia fuga dicta voluptatibus culpa
-                          mollitia recusandae delectus id suscipit labore?
-                        </p>
-                      </div>
                     </div>
-                  </div>
-              </div>
-             
-  
+                </div>
+            </div>
+
+
 
         </div> <!-- end about-how -->
 
@@ -509,7 +510,7 @@
                     <li><a href="#0" title="" class="badge-appstore">App Store</a></li>
                     <li><a href="#0" title="" class="badge-googleplay">Play Store</a></li>
                 </ul>
-            </div> 
+            </div>
         </div>
 
     </section> <!-- end s-download -->
@@ -522,7 +523,7 @@
                     <img src="images/logo.png" alt="Homepage" class="rounded-full w-1/2 mt-96 mx-auto">
                     <!-- <img src="images/bg.jpg" srcset="" class="object-cover w-full h-full"> -->
                 </div>
-    
+
                 <div class="p-5">
                     <div class="flex justify-end p-2 ">
                         <button onclick="closeModal('modelConfirm')" type="button" class="text-gray-400 bg-transparent border-transparent hover:bg-transparent hover:text-gray-900 rounded-lg text-xl p-2 ml-auto inline-flex items-center tracking-normal h-0">
@@ -531,64 +532,58 @@
                     </div>
                     <h3 class=" mb-0.5 font-medium"></h3>
                     <p class="mb-4 text-sm font-normal text-gray-800"></p>
-    
+
                     <div class="text-center">
                         <p class="mb-3 text-4xl font-semibold leading-5 text-slate-900">
                             Demander une Démo
                         </p>
                     </div>
-    
+
                     <div class="flex w-full items-center gap-2 py-6 text-sm text-slate-600">
                         <div class="h-px w-full bg-slate-400"></div>
                     </div>
-    
-                    <form class="w-full" action="send_form_to_mail.php" method="post">
+
+                    <form class="w-full" id="demo-form">
                         <div class="p-2">
                             <label for="restaurant" class="sr-only">Nom du restaurant</label>
-                            <input name="restaurant" type="text"  required=""
-                                class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Nom du Restaurant" value="">
+                            <input name="restaurant" type="text" required="" class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Nom du Restaurant" value="">
                         </div>
-    
+
                         <div class="p-2 grid grid-cols-2">
                             <div class="pr-5">
                                 <label for="restaurant" class="sr-only">Prénoms</label>
-                                <input name="surname" type="text"  required=""
-                                class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Prénoms" value="">
+                                <input name="surname" type="text" required="" class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Prénoms" value="">
                             </div>
                             <div class="pl-5">
                                 <label for="email" class="sr-only">Nom</label>
                                 <input name="name" type="text" autocomplete="name" required="" class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Nom" value="">
                             </div>
                         </div>
-    
+
                         <div class="p-2">
                             <label for="restaurant" class="sr-only">Email</label>
-                            <input name="email" type="email"  required=""
-                                class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Email" value="">
+                            <input name="email" type="email" required="" class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Email" value="">
                         </div>
                         <div class="p-2">
                             <label for="restaurant" class="sr-only">Télephone</label>
-                            <input name="phone" type="tel"  required=""
-                                class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Télephone" value="">
+                            <input name="phone" type="tel" required="" class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Télephone" value="">
                         </div>
                         <div class="p-2">
                             <label for="restaurant" class="sr-only">Adresse</label>
-                            <input name="adress" type="text"  required=""
-                            class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Adresse" value="">
+                            <input name="adress" type="text" required="" class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Adresse" value="">
                         </div>
-    
+
                         <div class="p-2 grid grid-cols-2">
                             <div class="pr-5">
                                 <label for="restaurant" class="sr-only">Code Postal</label>
-                                <input name="zip" type="text"  required=""
-                                class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Code Postal" value="">
+                                <input name="zip" type="text" required="" class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Code Postal" value="">
                             </div>
                             <div class="pl-5">
                                 <label for="email" class="sr-only">Ville</label>
                                 <input name="city" type="text" autocomplete="name" required="" class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 bg-slate-200" placeholder="Ville" value="">
                             </div>
                         </div>
-    
+
                         <div class="p-2">
                             <label for="" class="sr-only">Pays</label>
                             <select name="country" id="" class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 ">
@@ -599,7 +594,7 @@
                                 <option value="Nigeria">Nigeria</option>
                             </select>
                         </div>
-    
+
                         <div class="p-2">
                             <label for="" class="sr-only">Comment connaissez-vous Zenchef</label>
                             <select name="response" id="" class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 ">
@@ -609,16 +604,38 @@
                             </select>
                         </div>
                         <br>
-                        <button type="submit"
-                            class="inline-flex w-full items-center justify-center rounded-lg bg-black p-2 py-3 text-2xl font-medium text-white outline-none focus:ring-2 focus:ring-black focus:ring-offset-1 disabled:bg-gray-400">
+                        <button type="submit" class="inline-flex w-full items-center justify-center rounded-lg bg-black p-2 py-3 text-2xl font-medium text-white outline-none focus:ring-2 focus:ring-black focus:ring-offset-1 disabled:bg-gray-400">
                             Valider
                         </button>
                     </form>
                 </div>
             </div>
-    
+
         </div>
     </div>
+
+    <!-- Message modal -->
+    <div id="modelConfirm1" class="fixed z-30 hidden inset-0 bg-gray-900 bg-opacity-60 overflow-y-auto h-full w-full p-40">
+        <div class="relative mx-auto shadow-xl rounded-md bg-white max-w-3xl">
+
+            <div class="p-5 text-center">
+                <div class="flex justify-end p-2 ">
+                    <button onclick="closeModal('modelConfirm1')" type="button" class="text-gray-400 bg-white border-transparent hover:bg-transparent hover:text-gray-900 rounded-lg text-xl p-2 ml-auto inline-flex items-center tracking-normal h-0">
+                        <i class="fa fa-times"></i>
+                    </button>
+                </div>
+                <h3 class="mb-2 text-4xl text-orange-500 font-bold"> Succès </h3>
+                <p class="mb-2 text-3xl font-normal font-semibold text-gray-800"> Votre demande de démo a bien été envoyée</p>
+
+
+
+            </div>
+
+
+        </div>
+    </div>
+
+
 
 
     <!-- footer
@@ -643,11 +660,11 @@
                     <form id="mc-form" class="group" novalidate="true">
 
                         <input type="email" value="" name="EMAIL" class="email" id="mc-email" placeholder="Adresse Email" required="">
-            
+
                         <input type="submit" name="abonner" value="S'abonner">
-            
+
                         <label for="mc-email" class="subscribe-message"></label>
-            
+
                     </form>
                 </div>
             </div>
@@ -691,11 +708,11 @@
                         <h4>Contactez-nous.</h4>
 
                         <p>
-                        Phone: (+33) 7 74 45 40 11 <br>
+                            Phone: (+33) 7 74 45 40 11 <br>
                         </p>
                         <p>
-                        Besoin d'aide ou une question ? Contactez-nous maintenant: <br>
-                        <a href="mailto:#0" class="footer__mail-link">support@delicedelice.com</a>
+                            Besoin d'aide ou une question ? Contactez-nous maintenant: <br>
+                            <a href="mailto:#0" class="footer__mail-link">support@delicedelice.com</a>
                         </p>
                     </div>
 
@@ -703,7 +720,7 @@
             </div>
 
             <div class="col-full ss-copyright">
-                <span>&copy; Copyright DeliceDelice 2023</span> 
+                <span>&copy; Copyright DeliceDelice 2023</span>
                 <span>Tout droit réservé</span>
             </div>
 
@@ -727,12 +744,13 @@
             document.getElementById(modalId).style.display = 'block'
             document.getElementsByTagName('body')[0].classList.add('overflow-y-hidden')
         }
-    
+
         window.closeModal = function(modalId) {
             document.getElementById(modalId).style.display = 'none'
             document.getElementsByTagName('body')[0].classList.remove('overflow-y-hidden')
+
         }
-    
+
         // Close all modals when press ESC
         document.onkeydown = function(event) {
             event = event || window.event;
@@ -744,6 +762,33 @@
                 })
             }
         };
+    </script>
+
+    <script>
+        document.getElementById("demo-form").addEventListener("submit", function(event) {
+            event.preventDefault(); // Empêche le formulaire de se soumettre normalement
+
+            // Récupérer les données du formulaire
+            var formData = new FormData(this);
+
+            // Envoyer les données au script PHP en utilisant AJAX
+            fetch("send_form_to_mail.php", {
+                    method: "POST",
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(data => {
+                    // Traiter la réponse du serveur
+                    window.closeModal('modelConfirm')
+                    window.openModal('modelConfirm1')
+                    document.getElementById("demo-form").reset()
+
+
+                })
+                .catch(error => {
+                    console.error("Erreur lors de l'envoi des données au serveur:", error);
+                });
+        });
     </script>
 
 

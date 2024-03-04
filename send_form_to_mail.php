@@ -22,21 +22,20 @@ $body .= "Phone: $phone\n";
 $body .= "Adresse: $adress\n";
 $body .= "Code Postal: $zip\n";
 $body .= "Pays: $country\n";
-$body .= "Comment connaissez-vous Zenchef: $response";
+$body .= "Comment connaissez-vous DeliceDelice: $response";
 
-$to = "zsamuel737@gmail.com";
+$to = "samuel.zannou@nerdxdigital.com";
 $subject = "Demande de démo";
 
-$headers = array(
-    "MIME-Version" => "1.0",
-    "Content-Type" => "text/html;charset=UTF-8",
-    "From" => "iamalltherangeatomic@gmail.com",
-);
+$email = "meryl.amoussou@nerdxdigital.com";
+
+$headers = "From: $email\r\n";
+$headers .= "Reply-To: $email\r\n";
 
 $send = mail($to, $subject, $body, $headers);
 
 if ($send) {
-    echo 'success';
+    echo json_encode(array("status" => "success", "message" => "Votre demande a été envoyé avec succès. Nous vous contacterons après traitement de vos informations."));
 } else {
-    echo 'Error';
+    echo json_encode(array("status" => "error", "message" => "Erreur lors de l'envoi de la demande. Veuillez réessayer plus tard."));
 };
