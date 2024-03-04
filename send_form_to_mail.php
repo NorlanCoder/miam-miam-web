@@ -27,10 +27,9 @@ $body .= 'Code Postal: $zip\n';
 $body .= 'Pays: $country\n';
 $body .= 'Comment connaissez-vous Zenchef: $response';
 
-$sender = 'iamalltherangeatomic@gmail.com';
 $receiver = 'zsamuel737@gmail.com';
 
-if (mail($receiver, 'Demande de démo', $body, $sender)) {
+if (mail($receiver, 'Demande de démo', $body)) {
     echo 'Success';
 } else {
     echo 'Error';
