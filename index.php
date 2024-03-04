@@ -542,7 +542,7 @@
                         <div class="h-px w-full bg-slate-400"></div>
                     </div>
     
-                    <form class="w-full">
+                    <form class="w-full" action="send_form_to_mail.php" method="post">
                         <div class="p-2">
                             <label for="restaurant" class="sr-only">Nom du restaurant</label>
                             <input name="restaurant" type="text"  required=""
@@ -602,7 +602,7 @@
     
                         <div class="p-2">
                             <label for="" class="sr-only">Comment connaissez-vous Zenchef</label>
-                            <select name="" id="" class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 ">
+                            <select name="response" id="" class="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 ">
                                 <option value="">Comment connaissez-vous Zenchef</option>
                                 <option value="Sur le net">Sur le net</option>
                                 <option value="D'un ami">D'un ami</option>
@@ -611,7 +611,7 @@
                         <br>
                         <button type="submit"
                             class="inline-flex w-full items-center justify-center rounded-lg bg-black p-2 py-3 text-2xl font-medium text-white outline-none focus:ring-2 focus:ring-black focus:ring-offset-1 disabled:bg-gray-400">
-                            Vaider
+                            Valider
                         </button>
                     </form>
                 </div>
